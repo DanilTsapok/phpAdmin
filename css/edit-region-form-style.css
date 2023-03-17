@@ -1,0 +1,40 @@
+form{
+    display: table;
+    padding-top: 20px;
+}
+form div{
+    display: table-row;
+    line-height: 40px;
+    font-size: 14pt;
+}
+form div label, form div input{
+    display: table-cell;
+    font-size: 14pt;
+}
+form div label {
+    padding-right: 50px;
+}
+form div input {
+    border-radius:5px ;
+}
+
+input[name="region_name"]{
+    width: 200px;
+    
+}
+input[name="square"]{
+    width: 200px;
+    
+}
+input[name="population"]{
+    width: 200px;
+    
+}
+a {
+    font-size: 14pt;
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color:skyblue;
+}

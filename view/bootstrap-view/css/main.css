@@ -1,0 +1,35 @@
+div.city-list, div.user-info, div.city-control, .table-regions {
+    margin-top: 20px;
+}
+div.edit-region{
+    margin-top: 20px;
+}
+section.regions{
+    margin-top: 40px;
+}
+
+div.user-info a, div.city-control a {
+    margin-left: 10px;
+}
+
+.table-regions .table th{
+    text-align: center;
+}
+
+div.add-region{
+    margin-bottom: 10px;
+}
+html{
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+   
+}
+body{
+   background-color: transparent;
+    color: white;
+}
+tbody{
+    border: 1px solid white; 
+}
